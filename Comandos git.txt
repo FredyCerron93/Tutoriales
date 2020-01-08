@@ -1,0 +1,11 @@
+git init
+git add .				//agregar al repositorio "--all, -A"
+git commit -m "MENSAJE" 		//enviar cambios
+git diff				//compara los cambios actuales con lo ultimo
+git cheackout .				//deshacer los cambios
+git log 				//historial de cambios
+git reset 'DIR/DIR/*.Ext'		//borra el archivo o directorio
+git help				//ayuda
+//---------------------------------------------------------------------------------
+git remote add origin https://github.com/FredyCerron93/Curso.git
+git push -u origin master
