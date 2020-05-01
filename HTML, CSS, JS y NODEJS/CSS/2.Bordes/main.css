@@ -1,0 +1,17 @@
+body{
+    background-color: #eee;
+}
+
+.caja {
+    margin: 8px; /*separa las cajas*/
+    padding: 8px; /*mueve el contenido de la caja*/
+    border-style: solid; /*da estilo al borde*/
+    border-width: 8px; /*asignar el ancho de la caja*/
+    border-color: #faa;
+    border-left: 6px solid #afa; /*cambia el borde de la izquierda*/
+    background-color: #aaf;
+    border-radius: 8px; /*redondea los bordes*/
+    height: 100px;
+    width: 100px;
+    color: #575;
+}

@@ -1,0 +1,16 @@
+body{
+    background-color: #eee;
+}
+
+p{
+    color: #222fff;
+    text-align: left; /*opcion que hay center, right, left y justify*/
+    text-indent: 40px; /*Sangria*/
+    line-height: 1.7; /*separacion entre lineas*/
+}
+
+a{
+    text-decoration: none; /*tambien se puede usar overline, line-through, underline*/
+    text-transform: capitalize;/*uppercase, lowercase, capitalize*/
+    letter-spacing: 3px; /*separacion entre letras*/
+}
