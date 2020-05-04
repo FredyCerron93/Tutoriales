@@ -7,6 +7,8 @@ p{
     text-align: left; /*opcion que hay center, right, left y justify*/
     text-indent: 40px; /*Sangria*/
     line-height: 1.7; /*separacion entre lineas*/
+    word-wrap: 10px;/*espacio entre palabras*/
+    text-shadow: 5px 2px 2px rgba(0, 0, 0, 0.5);
 }
 
 a{

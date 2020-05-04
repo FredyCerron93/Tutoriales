@@ -1,0 +1,22 @@
+body{
+    background-color: #eee;
+}
+
+/*1* #over{
+    width: 100px;
+    height: 100px;
+    
+    overflow: auto;/*propiedades: visible, hidden, scroll, auto*/
+/*}*/
+
+img{/*da cabida para que se use el espacio deponible que deja la imagen*/
+    float: right;
+}
+
+img:hover{
+    opacity: 0.50;
+}
+
+div p{ /*modifica el p dentro del div*/
+    color: #f00;
+}

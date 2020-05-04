@@ -1,0 +1,28 @@
+body{
+    background-color: #eee;
+}
+
+table{
+    width: 100%;
+    background-color: white;
+    border-collapse: collapse; /*"elimina los espacios entre celdas"*/
+}
+
+tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+td{
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+table th{
+    background-color: #4caf50;
+    color: white;
+    text-align: left;
+    padding-bottom: 12px;
+    padding-left: 8px;
+    padding-top: 12px;
+    padding-right: 8px;
+}

@@ -1,0 +1,19 @@
+body{
+    background-color: #eee;
+}
+
+/*p{
+    display: inline;
+}*/
+/*con la propiedad display se puede mostrar o ocultar ejemplo display: none , block*/
+
+p{
+    max-width: 350px; /*ancho max del contenido*/
+    background-color: #f00;
+    margin: auto;
+    position: fixed; /*puede ser static que es por defecto, otra es relative*/
+    /*con fixed se deja fijado lo que queremos mostrar como menus, opciones*/
+    right: 15px;
+    top: 0px;
+    bottom: 0px;
+}

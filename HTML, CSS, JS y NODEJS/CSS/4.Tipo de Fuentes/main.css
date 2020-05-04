@@ -1,0 +1,14 @@
+body{
+    background-color: #eee;
+}
+
+p{
+    font-family: serif; /*times, times new roman, Monaco*/
+    font-style: italic;/*normal, oblique*/
+    font-size: 20px;
+    color: #222fff;
+    text-align: left; /*opcion que hay center, right, left y justify*/
+    text-indent: 40px; /*Sangria*/
+    line-height: 1.7; /*separacion entre lineas*/
+    word-wrap: 10px;
+}
