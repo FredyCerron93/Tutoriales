@@ -1,0 +1,11 @@
+body {
+    background-color: #eeeeee;
+}
+
+.grid{
+    display: /*grid va hasta el fondo*/ inline-grid;
+}
+
+.element {
+    background-color: red;
+}

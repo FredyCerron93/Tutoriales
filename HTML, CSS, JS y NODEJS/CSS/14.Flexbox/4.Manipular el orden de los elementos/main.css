@@ -1,0 +1,22 @@
+body{
+    width: 200px;
+}
+.flex{
+    display: flex;
+    /*flex-direction: row;/*jugar con la opciones autocompletadas*/
+    /*flex-wrap: wrap; /*acomoda los elementos para no salga del los limites establecidos "width: 200px"*/
+    flex-flow: row wrap;
+    /*justify-content: space-evenly;*/
+    height: 200px;
+    /*align-content: space-evenly;/*indica como vamos a distribuir el contenido dentro de los limites*/
+}
+.red{
+    background-color: red;
+}
+
+.primero{
+    order: 1;
+}
+.segundo{
+    order: 0;
+}
