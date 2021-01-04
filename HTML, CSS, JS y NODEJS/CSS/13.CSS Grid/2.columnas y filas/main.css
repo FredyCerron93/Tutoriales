@@ -5,7 +5,7 @@ body {
 .grid{
     display: /*grid va hasta el fondo*/ grid;
     /*grid-template-rows: 50px 100px; /*debe tener primro 50px y luego 100, el resto tiene 0px*/
-    grid-template-columns: 2rem 20% 1fr 2fr; /*se divide entre el numero de elementos que hay*/
+    grid-template-columns: 2fr 20% 1fr 2fr; /*se divide entre el numero de elementos que hay*/
     /*se puede usar diferentes unidades de medidas*/
 }
 

@@ -22,6 +22,6 @@ body {
     grid-row-start: 1;
     grid-row-end: 3;*/
     /*Forma Corta*/
-    grid-column: 1 / 6;
+    grid-column: 1/6;
     grid-row: 1 / 3;
 }

@@ -1,9 +1,9 @@
 body{
-    width: 200px;
+    width: 2fr;
 }
 .flex{
     display: flex;
     /*flex-direction: row;/*jugar con la opciones autocompletadas*/
     /*flex-wrap: wrap; /*acomoda los elementos para no salga del los limites establecidos "width: 200px"*/
-    flex-flow: row wrap;
+    flex-flow: wrap row;
 }

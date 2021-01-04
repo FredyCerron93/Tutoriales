@@ -9,7 +9,7 @@ body {
     /*grid-row-gap: 20px;/*Espacio entre filas*/
     /*grid-column-gap: 10px; /*Espacion entre columnas*/
     /*las lineas anteriores son mas especificos*/
-    grid-gap: 15px;
+    grid-gap: 20px 5px;
 }
 
 .element {
